@@ -1,0 +1,63 @@
+﻿.titulo {
+	background-color:#88BC3E;
+	
+}
+.fondo_titulo
+{
+	
+	float:left;
+  background-repeat: no-repeat;
+  background-position: left top;
+  padding-top:15px;
+
+}
+.letra_titulo
+{
+	color:white;
+	font-size:50px;
+}
+.titulo2
+{
+	background-color:#50903F;
+	text-align:center;
+}
+.letra_titulo2
+{
+	color:white;
+	
+}
+ .mi_select
+  {
+
+  width:80%;
+  color: #2E3133;
+  text-align:center;
+
+  }
+.div_select
+{
+	padding-top:20px;
+	text-align:center;
+}
+.centrar {
+    padding: 40px 15px;
+    text-align:center;
+}
+.grande {
+    width:900px;
+}
+.button
+{
+	font-size: 18px;
+	font-family: Arial, Verdana;
+	width:25%;
+	
+
+
+}
+
+   
+
+ 
+
+
